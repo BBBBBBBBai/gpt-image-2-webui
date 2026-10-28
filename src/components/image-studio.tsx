@@ -686,8 +686,9 @@ const remixRecipeItems: {
 
 const modelItems = [
   { label: "gpt-image-2", value: "gpt-image-2" },
-  { label: "gpt-image-2-2026-04-21", value: "gpt-image-2-2026-04-21" },
-  { label: "gpt-image-1", value: "gpt-image-1" },
+  { label: "gpt-image-2.5", value: "gpt-image-2.5" },
+  { label: "gpt-image-2.5-sunburst", value: "gpt-image-2.5-sunburst" },
+  { label: "gpt-image-2.5-flare", value: "gpt-image-2.5-flare" },
 ]
 
 type PresetSizeValue = (typeof PRESET_SIZE_VALUES)[number]
